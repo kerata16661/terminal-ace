@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: terminal-ace
+Version: 0.1.0
+Summary: A state-aware terminal agent for Terminal-Bench Hard
+Requires-Python: >=3.11
+License-File: LICENSE
+Dynamic: license-file
